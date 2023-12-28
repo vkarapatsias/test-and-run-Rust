@@ -13,5 +13,7 @@ Cargo.lock
 # Added by cargo
 
 /target
+sqlite-hf/target
+trust/target
 
 .vscode
